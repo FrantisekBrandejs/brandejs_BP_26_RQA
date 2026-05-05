@@ -48,8 +48,3 @@ Dále je vyžadována doplňková tabulka respondentů (`.csv`) s jejich rozřaz
 * `scipy` – výpočet euklidovských vzdáleností (XY přístup).
 * `matplotlib` a `seaborn` – generování grafických výstupů a grafů.
 * `ipywidgets` – tvorba interaktivního uživatelského rozhraní přímo v prohlížeči.
-
-## Citace a reference
-Pokud tento skript využijete ve svém výzkumu, prosím citujte původní bakalářskou práci:
-> BRANDEJS, František. *Využití rekurentní kvantifikační analýzy pro interpretaci očních pohybů při čtení statických map*. Olomouc, 2026. Bakalářská práce. Univerzita Palackého v Olomouci, Přírodovědecká fakulta, Katedra geoinformatiky. Vedoucí práce Mgr. Michaela Vojtěchovská.
-
